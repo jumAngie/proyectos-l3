@@ -1,0 +1,16 @@
+C:\Users\lab.infovs\Documents\L3 - Angie Campos - Proyectos\MiPrimerWindowsForm\bin\Debug\net7.0-windows\MiPrimerWindowsForm.exe
+C:\Users\lab.infovs\Documents\L3 - Angie Campos - Proyectos\MiPrimerWindowsForm\bin\Debug\net7.0-windows\MiPrimerWindowsForm.deps.json
+C:\Users\lab.infovs\Documents\L3 - Angie Campos - Proyectos\MiPrimerWindowsForm\bin\Debug\net7.0-windows\MiPrimerWindowsForm.runtimeconfig.json
+C:\Users\lab.infovs\Documents\L3 - Angie Campos - Proyectos\MiPrimerWindowsForm\bin\Debug\net7.0-windows\MiPrimerWindowsForm.dll
+C:\Users\lab.infovs\Documents\L3 - Angie Campos - Proyectos\MiPrimerWindowsForm\bin\Debug\net7.0-windows\MiPrimerWindowsForm.pdb
+C:\Users\lab.infovs\Documents\L3 - Angie Campos - Proyectos\MiPrimerWindowsForm\obj\Debug\net7.0-windows\MiPrimerWindowsForm.Form1.resources
+C:\Users\lab.infovs\Documents\L3 - Angie Campos - Proyectos\MiPrimerWindowsForm\obj\Debug\net7.0-windows\MiPrimerWindowsForm.vbproj.GenerateResource.cache
+C:\Users\lab.infovs\Documents\L3 - Angie Campos - Proyectos\MiPrimerWindowsForm\obj\Debug\net7.0-windows\MiPrimerWindowsForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab.infovs\Documents\L3 - Angie Campos - Proyectos\MiPrimerWindowsForm\obj\Debug\net7.0-windows\MiPrimerWindowsForm.AssemblyInfoInputs.cache
+C:\Users\lab.infovs\Documents\L3 - Angie Campos - Proyectos\MiPrimerWindowsForm\obj\Debug\net7.0-windows\MiPrimerWindowsForm.AssemblyInfo.vb
+C:\Users\lab.infovs\Documents\L3 - Angie Campos - Proyectos\MiPrimerWindowsForm\obj\Debug\net7.0-windows\MiPrimerWindowsForm.vbproj.CoreCompileInputs.cache
+C:\Users\lab.infovs\Documents\L3 - Angie Campos - Proyectos\MiPrimerWindowsForm\obj\Debug\net7.0-windows\MiPrimerWindowsForm.dll
+C:\Users\lab.infovs\Documents\L3 - Angie Campos - Proyectos\MiPrimerWindowsForm\obj\Debug\net7.0-windows\refint\MiPrimerWindowsForm.dll
+C:\Users\lab.infovs\Documents\L3 - Angie Campos - Proyectos\MiPrimerWindowsForm\obj\Debug\net7.0-windows\MiPrimerWindowsForm.pdb
+C:\Users\lab.infovs\Documents\L3 - Angie Campos - Proyectos\MiPrimerWindowsForm\obj\Debug\net7.0-windows\MiPrimerWindowsForm.genruntimeconfig.cache
+C:\Users\lab.infovs\Documents\L3 - Angie Campos - Proyectos\MiPrimerWindowsForm\obj\Debug\net7.0-windows\ref\MiPrimerWindowsForm.dll

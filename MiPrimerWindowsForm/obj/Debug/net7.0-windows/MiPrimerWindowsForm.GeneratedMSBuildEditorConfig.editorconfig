@@ -14,4 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MiPrimerWindowsForm
-build_property.ProjectDir = C:\Users\lab.infovs\Documents\L3 - Angie Campos - Proyectos\MiPrimerWindowsForm\
+build_property.ProjectDir = C:\Users\PC\Documents\GitHub\proyectos-l3\MiPrimerWindowsForm\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -14,3 +14,21 @@ C:\Users\lab.infovs\Documents\L3 - Angie Campos - Proyectos\MiPrimerWindowsForm\
 C:\Users\lab.infovs\Documents\L3 - Angie Campos - Proyectos\MiPrimerWindowsForm\obj\Debug\net7.0-windows\MiPrimerWindowsForm.pdb
 C:\Users\lab.infovs\Documents\L3 - Angie Campos - Proyectos\MiPrimerWindowsForm\obj\Debug\net7.0-windows\MiPrimerWindowsForm.genruntimeconfig.cache
 C:\Users\lab.infovs\Documents\L3 - Angie Campos - Proyectos\MiPrimerWindowsForm\obj\Debug\net7.0-windows\ref\MiPrimerWindowsForm.dll
+C:\Users\PC\Documents\GitHub\proyectos-l3\MiPrimerWindowsForm\bin\Debug\net7.0-windows\MiPrimerWindowsForm.exe
+C:\Users\PC\Documents\GitHub\proyectos-l3\MiPrimerWindowsForm\bin\Debug\net7.0-windows\MiPrimerWindowsForm.deps.json
+C:\Users\PC\Documents\GitHub\proyectos-l3\MiPrimerWindowsForm\bin\Debug\net7.0-windows\MiPrimerWindowsForm.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\proyectos-l3\MiPrimerWindowsForm\bin\Debug\net7.0-windows\MiPrimerWindowsForm.dll
+C:\Users\PC\Documents\GitHub\proyectos-l3\MiPrimerWindowsForm\bin\Debug\net7.0-windows\MiPrimerWindowsForm.pdb
+C:\Users\PC\Documents\GitHub\proyectos-l3\MiPrimerWindowsForm\obj\Debug\net7.0-windows\MiPrimerWindowsForm.Form1.resources
+C:\Users\PC\Documents\GitHub\proyectos-l3\MiPrimerWindowsForm\obj\Debug\net7.0-windows\MiPrimerWindowsForm.vbproj.GenerateResource.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\MiPrimerWindowsForm\obj\Debug\net7.0-windows\MiPrimerWindowsForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\proyectos-l3\MiPrimerWindowsForm\obj\Debug\net7.0-windows\MiPrimerWindowsForm.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\MiPrimerWindowsForm\obj\Debug\net7.0-windows\MiPrimerWindowsForm.AssemblyInfo.vb
+C:\Users\PC\Documents\GitHub\proyectos-l3\MiPrimerWindowsForm\obj\Debug\net7.0-windows\MiPrimerWindowsForm.vbproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\MiPrimerWindowsForm\obj\Debug\net7.0-windows\MiPrimerWindowsForm.sourcelink.json
+C:\Users\PC\Documents\GitHub\proyectos-l3\MiPrimerWindowsForm\obj\Debug\net7.0-windows\MiPrimerWindowsForm.dll
+C:\Users\PC\Documents\GitHub\proyectos-l3\MiPrimerWindowsForm\obj\Debug\net7.0-windows\refint\MiPrimerWindowsForm.dll
+C:\Users\PC\Documents\GitHub\proyectos-l3\MiPrimerWindowsForm\obj\Debug\net7.0-windows\MiPrimerWindowsForm.pdb
+C:\Users\PC\Documents\GitHub\proyectos-l3\MiPrimerWindowsForm\obj\Debug\net7.0-windows\MiPrimerWindowsForm.genruntimeconfig.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\MiPrimerWindowsForm\obj\Debug\net7.0-windows\ref\MiPrimerWindowsForm.dll
+C:\Users\PC\Documents\GitHub\proyectos-l3\MiPrimerWindowsForm\obj\Debug\net7.0-windows\MiPrimerWindowsForm.Resources.resources

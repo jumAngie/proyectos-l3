@@ -1,0 +1,16 @@
+C:\Users\PC\Documents\GitHub\proyectos-l3\P4_Capital_de_Empresa\bin\Debug\net5.0\P4_Capital_de_Empresa.exe
+C:\Users\PC\Documents\GitHub\proyectos-l3\P4_Capital_de_Empresa\bin\Debug\net5.0\P4_Capital_de_Empresa.deps.json
+C:\Users\PC\Documents\GitHub\proyectos-l3\P4_Capital_de_Empresa\bin\Debug\net5.0\P4_Capital_de_Empresa.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\proyectos-l3\P4_Capital_de_Empresa\bin\Debug\net5.0\P4_Capital_de_Empresa.runtimeconfig.dev.json
+C:\Users\PC\Documents\GitHub\proyectos-l3\P4_Capital_de_Empresa\bin\Debug\net5.0\P4_Capital_de_Empresa.dll
+C:\Users\PC\Documents\GitHub\proyectos-l3\P4_Capital_de_Empresa\bin\Debug\net5.0\ref\P4_Capital_de_Empresa.dll
+C:\Users\PC\Documents\GitHub\proyectos-l3\P4_Capital_de_Empresa\bin\Debug\net5.0\P4_Capital_de_Empresa.pdb
+C:\Users\PC\Documents\GitHub\proyectos-l3\P4_Capital_de_Empresa\obj\Debug\net5.0\P4_Capital_de_Empresa.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P4_Capital_de_Empresa\obj\Debug\net5.0\P4_Capital_de_Empresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\proyectos-l3\P4_Capital_de_Empresa\obj\Debug\net5.0\P4_Capital_de_Empresa.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P4_Capital_de_Empresa\obj\Debug\net5.0\P4_Capital_de_Empresa.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\proyectos-l3\P4_Capital_de_Empresa\obj\Debug\net5.0\P4_Capital_de_Empresa.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P4_Capital_de_Empresa\obj\Debug\net5.0\P4_Capital_de_Empresa.dll
+C:\Users\PC\Documents\GitHub\proyectos-l3\P4_Capital_de_Empresa\obj\Debug\net5.0\ref\P4_Capital_de_Empresa.dll
+C:\Users\PC\Documents\GitHub\proyectos-l3\P4_Capital_de_Empresa\obj\Debug\net5.0\P4_Capital_de_Empresa.pdb
+C:\Users\PC\Documents\GitHub\proyectos-l3\P4_Capital_de_Empresa\obj\Debug\net5.0\P4_Capital_de_Empresa.genruntimeconfig.cache

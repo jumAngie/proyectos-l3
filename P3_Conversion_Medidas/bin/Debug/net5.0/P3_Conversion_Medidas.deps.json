@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "P3_Conversion_Medidas/1.0.0": {
+        "runtime": {
+          "P3_Conversion_Medidas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P3_Conversion_Medidas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

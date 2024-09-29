@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P3_Conversion_Medidas", "P3_Conversion_Medidas.csproj", "{FF4164A4-E4A7-4E98-A1DE-6E28CDED07EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF4164A4-E4A7-4E98-A1DE-6E28CDED07EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF4164A4-E4A7-4E98-A1DE-6E28CDED07EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF4164A4-E4A7-4E98-A1DE-6E28CDED07EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF4164A4-E4A7-4E98-A1DE-6E28CDED07EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1314910E-6C35-4310-8E16-74D3066E926D}
+	EndGlobalSection
+EndGlobal

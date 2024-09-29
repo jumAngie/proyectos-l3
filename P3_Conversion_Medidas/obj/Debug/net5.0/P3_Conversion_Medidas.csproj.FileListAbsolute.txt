@@ -1,0 +1,16 @@
+C:\Users\PC\Documents\GitHub\proyectos-l3\P3_Conversion_Medidas\bin\Debug\net5.0\P3_Conversion_Medidas.exe
+C:\Users\PC\Documents\GitHub\proyectos-l3\P3_Conversion_Medidas\bin\Debug\net5.0\P3_Conversion_Medidas.deps.json
+C:\Users\PC\Documents\GitHub\proyectos-l3\P3_Conversion_Medidas\bin\Debug\net5.0\P3_Conversion_Medidas.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\proyectos-l3\P3_Conversion_Medidas\bin\Debug\net5.0\P3_Conversion_Medidas.runtimeconfig.dev.json
+C:\Users\PC\Documents\GitHub\proyectos-l3\P3_Conversion_Medidas\bin\Debug\net5.0\P3_Conversion_Medidas.dll
+C:\Users\PC\Documents\GitHub\proyectos-l3\P3_Conversion_Medidas\bin\Debug\net5.0\ref\P3_Conversion_Medidas.dll
+C:\Users\PC\Documents\GitHub\proyectos-l3\P3_Conversion_Medidas\bin\Debug\net5.0\P3_Conversion_Medidas.pdb
+C:\Users\PC\Documents\GitHub\proyectos-l3\P3_Conversion_Medidas\obj\Debug\net5.0\P3_Conversion_Medidas.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P3_Conversion_Medidas\obj\Debug\net5.0\P3_Conversion_Medidas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\proyectos-l3\P3_Conversion_Medidas\obj\Debug\net5.0\P3_Conversion_Medidas.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P3_Conversion_Medidas\obj\Debug\net5.0\P3_Conversion_Medidas.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\proyectos-l3\P3_Conversion_Medidas\obj\Debug\net5.0\P3_Conversion_Medidas.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P3_Conversion_Medidas\obj\Debug\net5.0\P3_Conversion_Medidas.dll
+C:\Users\PC\Documents\GitHub\proyectos-l3\P3_Conversion_Medidas\obj\Debug\net5.0\ref\P3_Conversion_Medidas.dll
+C:\Users\PC\Documents\GitHub\proyectos-l3\P3_Conversion_Medidas\obj\Debug\net5.0\P3_Conversion_Medidas.pdb
+C:\Users\PC\Documents\GitHub\proyectos-l3\P3_Conversion_Medidas\obj\Debug\net5.0\P3_Conversion_Medidas.genruntimeconfig.cache

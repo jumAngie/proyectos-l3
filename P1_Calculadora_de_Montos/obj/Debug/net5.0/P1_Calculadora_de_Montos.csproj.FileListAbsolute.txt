@@ -1,0 +1,16 @@
+C:\Users\PC\Documents\GitHub\proyectos-l3\P1_Calculadora_de_Montos\bin\Debug\net5.0\P1_Calculadora_de_Montos.exe
+C:\Users\PC\Documents\GitHub\proyectos-l3\P1_Calculadora_de_Montos\bin\Debug\net5.0\P1_Calculadora_de_Montos.deps.json
+C:\Users\PC\Documents\GitHub\proyectos-l3\P1_Calculadora_de_Montos\bin\Debug\net5.0\P1_Calculadora_de_Montos.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\proyectos-l3\P1_Calculadora_de_Montos\bin\Debug\net5.0\P1_Calculadora_de_Montos.runtimeconfig.dev.json
+C:\Users\PC\Documents\GitHub\proyectos-l3\P1_Calculadora_de_Montos\bin\Debug\net5.0\P1_Calculadora_de_Montos.dll
+C:\Users\PC\Documents\GitHub\proyectos-l3\P1_Calculadora_de_Montos\bin\Debug\net5.0\ref\P1_Calculadora_de_Montos.dll
+C:\Users\PC\Documents\GitHub\proyectos-l3\P1_Calculadora_de_Montos\bin\Debug\net5.0\P1_Calculadora_de_Montos.pdb
+C:\Users\PC\Documents\GitHub\proyectos-l3\P1_Calculadora_de_Montos\obj\Debug\net5.0\P1_Calculadora_de_Montos.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P1_Calculadora_de_Montos\obj\Debug\net5.0\P1_Calculadora_de_Montos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\proyectos-l3\P1_Calculadora_de_Montos\obj\Debug\net5.0\P1_Calculadora_de_Montos.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P1_Calculadora_de_Montos\obj\Debug\net5.0\P1_Calculadora_de_Montos.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\proyectos-l3\P1_Calculadora_de_Montos\obj\Debug\net5.0\P1_Calculadora_de_Montos.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P1_Calculadora_de_Montos\obj\Debug\net5.0\P1_Calculadora_de_Montos.dll
+C:\Users\PC\Documents\GitHub\proyectos-l3\P1_Calculadora_de_Montos\obj\Debug\net5.0\ref\P1_Calculadora_de_Montos.dll
+C:\Users\PC\Documents\GitHub\proyectos-l3\P1_Calculadora_de_Montos\obj\Debug\net5.0\P1_Calculadora_de_Montos.pdb
+C:\Users\PC\Documents\GitHub\proyectos-l3\P1_Calculadora_de_Montos\obj\Debug\net5.0\P1_Calculadora_de_Montos.genruntimeconfig.cache

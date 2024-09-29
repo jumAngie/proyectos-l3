@@ -1,0 +1,16 @@
+C:\Users\PC\Documents\GitHub\proyectos-l3\P2_Promedios_De_Nota\bin\Debug\net5.0\P2_Promedios_De_Nota.exe
+C:\Users\PC\Documents\GitHub\proyectos-l3\P2_Promedios_De_Nota\bin\Debug\net5.0\P2_Promedios_De_Nota.deps.json
+C:\Users\PC\Documents\GitHub\proyectos-l3\P2_Promedios_De_Nota\bin\Debug\net5.0\P2_Promedios_De_Nota.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\proyectos-l3\P2_Promedios_De_Nota\bin\Debug\net5.0\P2_Promedios_De_Nota.runtimeconfig.dev.json
+C:\Users\PC\Documents\GitHub\proyectos-l3\P2_Promedios_De_Nota\bin\Debug\net5.0\P2_Promedios_De_Nota.dll
+C:\Users\PC\Documents\GitHub\proyectos-l3\P2_Promedios_De_Nota\bin\Debug\net5.0\ref\P2_Promedios_De_Nota.dll
+C:\Users\PC\Documents\GitHub\proyectos-l3\P2_Promedios_De_Nota\bin\Debug\net5.0\P2_Promedios_De_Nota.pdb
+C:\Users\PC\Documents\GitHub\proyectos-l3\P2_Promedios_De_Nota\obj\Debug\net5.0\P2_Promedios_De_Nota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\proyectos-l3\P2_Promedios_De_Nota\obj\Debug\net5.0\P2_Promedios_De_Nota.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P2_Promedios_De_Nota\obj\Debug\net5.0\P2_Promedios_De_Nota.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\proyectos-l3\P2_Promedios_De_Nota\obj\Debug\net5.0\P2_Promedios_De_Nota.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P2_Promedios_De_Nota\obj\Debug\net5.0\P2_Promedios_De_Nota.dll
+C:\Users\PC\Documents\GitHub\proyectos-l3\P2_Promedios_De_Nota\obj\Debug\net5.0\ref\P2_Promedios_De_Nota.dll
+C:\Users\PC\Documents\GitHub\proyectos-l3\P2_Promedios_De_Nota\obj\Debug\net5.0\P2_Promedios_De_Nota.pdb
+C:\Users\PC\Documents\GitHub\proyectos-l3\P2_Promedios_De_Nota\obj\Debug\net5.0\P2_Promedios_De_Nota.genruntimeconfig.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P2_Promedios_De_Nota\obj\Debug\net5.0\P2_Promedios_De_Nota.csproj.AssemblyReference.cache

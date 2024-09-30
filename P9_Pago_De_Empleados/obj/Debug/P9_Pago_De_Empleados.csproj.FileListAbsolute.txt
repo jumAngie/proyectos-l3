@@ -1,0 +1,10 @@
+C:\Users\PC\Documents\GitHub\proyectos-l3\P9_Pago_De_Empleados\bin\Debug\P9_Pago_De_Empleados.exe.config
+C:\Users\PC\Documents\GitHub\proyectos-l3\P9_Pago_De_Empleados\bin\Debug\P9_Pago_De_Empleados.exe
+C:\Users\PC\Documents\GitHub\proyectos-l3\P9_Pago_De_Empleados\bin\Debug\P9_Pago_De_Empleados.pdb
+C:\Users\PC\Documents\GitHub\proyectos-l3\P9_Pago_De_Empleados\obj\Debug\P9_Pago_De_Empleados.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P9_Pago_De_Empleados\obj\Debug\P9_Pago_De_Empleados.frmPago.resources
+C:\Users\PC\Documents\GitHub\proyectos-l3\P9_Pago_De_Empleados\obj\Debug\P9_Pago_De_Empleados.Properties.Resources.resources
+C:\Users\PC\Documents\GitHub\proyectos-l3\P9_Pago_De_Empleados\obj\Debug\P9_Pago_De_Empleados.csproj.GenerateResource.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P9_Pago_De_Empleados\obj\Debug\P9_Pago_De_Empleados.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P9_Pago_De_Empleados\obj\Debug\P9_Pago_De_Empleados.exe
+C:\Users\PC\Documents\GitHub\proyectos-l3\P9_Pago_De_Empleados\obj\Debug\P9_Pago_De_Empleados.pdb

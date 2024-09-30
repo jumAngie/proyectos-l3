@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+// Angie Yahaira Campos Arias
+// 20222000215
 
 namespace P6_Pago_De_Empleados
 {

@@ -8,6 +8,9 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+// Angie Yahaira Campos Arias
+// 20222000215
+
 namespace P9_Pago_De_Empleados
 {
     public partial class frmPago : Form

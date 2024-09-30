@@ -1,4 +1,6 @@
 ﻿using System;
+// Angie Yahaira Campos Arias
+// 20222000215
 
 namespace P5_Control_De_Ventas_De_Productos
 {

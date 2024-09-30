@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+// Angie Yahaira Campos Arias
+// 20222000215
 
 namespace P8_Control_Area_Y_Volumen
 {

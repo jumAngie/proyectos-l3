@@ -1,0 +1,10 @@
+C:\Users\PC\Documents\GitHub\proyectos-l3\P7_Control_De_Medidas\bin\Debug\P7_Control_De_Medidas.exe.config
+C:\Users\PC\Documents\GitHub\proyectos-l3\P7_Control_De_Medidas\bin\Debug\P7_Control_De_Medidas.exe
+C:\Users\PC\Documents\GitHub\proyectos-l3\P7_Control_De_Medidas\bin\Debug\P7_Control_De_Medidas.pdb
+C:\Users\PC\Documents\GitHub\proyectos-l3\P7_Control_De_Medidas\obj\Debug\P7_Control_De_Medidas.frmMedidas.resources
+C:\Users\PC\Documents\GitHub\proyectos-l3\P7_Control_De_Medidas\obj\Debug\P7_Control_De_Medidas.Properties.Resources.resources
+C:\Users\PC\Documents\GitHub\proyectos-l3\P7_Control_De_Medidas\obj\Debug\P7_Control_De_Medidas.csproj.GenerateResource.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P7_Control_De_Medidas\obj\Debug\P7_Control_De_Medidas.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P7_Control_De_Medidas\obj\Debug\P7_Control_De_Medidas.exe
+C:\Users\PC\Documents\GitHub\proyectos-l3\P7_Control_De_Medidas\obj\Debug\P7_Control_De_Medidas.pdb
+C:\Users\PC\Documents\GitHub\proyectos-l3\P7_Control_De_Medidas\obj\Debug\P7_Control_De_Medidas.csproj.AssemblyReference.cache

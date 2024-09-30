@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P7_Control_De_Medidas", "P7_Control_De_Medidas.csproj", "{A17546EF-BBBB-416C-9133-A9E72BAF0B45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A17546EF-BBBB-416C-9133-A9E72BAF0B45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A17546EF-BBBB-416C-9133-A9E72BAF0B45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A17546EF-BBBB-416C-9133-A9E72BAF0B45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A17546EF-BBBB-416C-9133-A9E72BAF0B45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CDEC634-8112-4D9F-827D-7BB0B6F5A191}
+	EndGlobalSection
+EndGlobal

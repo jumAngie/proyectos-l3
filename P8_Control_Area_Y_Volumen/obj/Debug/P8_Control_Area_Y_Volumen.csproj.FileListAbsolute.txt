@@ -1,0 +1,10 @@
+C:\Users\PC\Documents\GitHub\proyectos-l3\P8_Control_Area_Y_Volumen\bin\Debug\P8_Control_Area_Y_Volumen.exe.config
+C:\Users\PC\Documents\GitHub\proyectos-l3\P8_Control_Area_Y_Volumen\bin\Debug\P8_Control_Area_Y_Volumen.exe
+C:\Users\PC\Documents\GitHub\proyectos-l3\P8_Control_Area_Y_Volumen\bin\Debug\P8_Control_Area_Y_Volumen.pdb
+C:\Users\PC\Documents\GitHub\proyectos-l3\P8_Control_Area_Y_Volumen\obj\Debug\P8_Control_Area_Y_Volumen.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P8_Control_Area_Y_Volumen\obj\Debug\P8_Control_Area_Y_Volumen.frmRollo.resources
+C:\Users\PC\Documents\GitHub\proyectos-l3\P8_Control_Area_Y_Volumen\obj\Debug\P8_Control_Area_Y_Volumen.Properties.Resources.resources
+C:\Users\PC\Documents\GitHub\proyectos-l3\P8_Control_Area_Y_Volumen\obj\Debug\P8_Control_Area_Y_Volumen.csproj.GenerateResource.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P8_Control_Area_Y_Volumen\obj\Debug\P8_Control_Area_Y_Volumen.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P8_Control_Area_Y_Volumen\obj\Debug\P8_Control_Area_Y_Volumen.exe
+C:\Users\PC\Documents\GitHub\proyectos-l3\P8_Control_Area_Y_Volumen\obj\Debug\P8_Control_Area_Y_Volumen.pdb

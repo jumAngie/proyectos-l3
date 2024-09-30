@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\P12_Venta_De_Productos\bin\Debug\P12_Venta_De_Productos.exe.config
+C:\Users\PC\source\repos\P12_Venta_De_Productos\bin\Debug\P12_Venta_De_Productos.exe
+C:\Users\PC\source\repos\P12_Venta_De_Productos\bin\Debug\P12_Venta_De_Productos.pdb
+C:\Users\PC\source\repos\P12_Venta_De_Productos\obj\Debug\P12_Venta_De_Productos.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\P12_Venta_De_Productos\obj\Debug\P12_Venta_De_Productos.frmVenta.resources
+C:\Users\PC\source\repos\P12_Venta_De_Productos\obj\Debug\P12_Venta_De_Productos.Properties.Resources.resources
+C:\Users\PC\source\repos\P12_Venta_De_Productos\obj\Debug\P12_Venta_De_Productos.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\P12_Venta_De_Productos\obj\Debug\P12_Venta_De_Productos.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\P12_Venta_De_Productos\obj\Debug\P12_Venta_De_Productos.exe
+C:\Users\PC\source\repos\P12_Venta_De_Productos\obj\Debug\P12_Venta_De_Productos.pdb

@@ -1,0 +1,10 @@
+C:\Users\PC\Documents\GitHub\proyectos-l3\P10_Control_De_Registro_de_Documentos\bin\Debug\P10_Control_De_Registro_de_Documentos.exe.config
+C:\Users\PC\Documents\GitHub\proyectos-l3\P10_Control_De_Registro_de_Documentos\bin\Debug\P10_Control_De_Registro_de_Documentos.exe
+C:\Users\PC\Documents\GitHub\proyectos-l3\P10_Control_De_Registro_de_Documentos\bin\Debug\P10_Control_De_Registro_de_Documentos.pdb
+C:\Users\PC\Documents\GitHub\proyectos-l3\P10_Control_De_Registro_de_Documentos\obj\Debug\P10_Control_De_Registro_de_Documentos.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P10_Control_De_Registro_de_Documentos\obj\Debug\P10_Control_De_Registro_de_Documentos.frmRegistro.resources
+C:\Users\PC\Documents\GitHub\proyectos-l3\P10_Control_De_Registro_de_Documentos\obj\Debug\P10_Control_De_Registro_de_Documentos.Properties.Resources.resources
+C:\Users\PC\Documents\GitHub\proyectos-l3\P10_Control_De_Registro_de_Documentos\obj\Debug\P10_Control_De_Registro_de_Documentos.csproj.GenerateResource.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P10_Control_De_Registro_de_Documentos\obj\Debug\P10_Control_De_Registro_de_Documentos.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P10_Control_De_Registro_de_Documentos\obj\Debug\P10_Control_De_Registro_de_Documentos.exe
+C:\Users\PC\Documents\GitHub\proyectos-l3\P10_Control_De_Registro_de_Documentos\obj\Debug\P10_Control_De_Registro_de_Documentos.pdb

@@ -1,0 +1,10 @@
+C:\Users\PC\Documents\GitHub\proyectos-l3\P11_Promedio_de_Notas\bin\Debug\P11_Promedio_de_Notas.exe.config
+C:\Users\PC\Documents\GitHub\proyectos-l3\P11_Promedio_de_Notas\bin\Debug\P11_Promedio_de_Notas.exe
+C:\Users\PC\Documents\GitHub\proyectos-l3\P11_Promedio_de_Notas\bin\Debug\P11_Promedio_de_Notas.pdb
+C:\Users\PC\Documents\GitHub\proyectos-l3\P11_Promedio_de_Notas\obj\Debug\P11_Promedio_de_Notas.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P11_Promedio_de_Notas\obj\Debug\P11_Promedio_de_Notas.frmEvaluacion.resources
+C:\Users\PC\Documents\GitHub\proyectos-l3\P11_Promedio_de_Notas\obj\Debug\P11_Promedio_de_Notas.Properties.Resources.resources
+C:\Users\PC\Documents\GitHub\proyectos-l3\P11_Promedio_de_Notas\obj\Debug\P11_Promedio_de_Notas.csproj.GenerateResource.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P11_Promedio_de_Notas\obj\Debug\P11_Promedio_de_Notas.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P11_Promedio_de_Notas\obj\Debug\P11_Promedio_de_Notas.exe
+C:\Users\PC\Documents\GitHub\proyectos-l3\P11_Promedio_de_Notas\obj\Debug\P11_Promedio_de_Notas.pdb

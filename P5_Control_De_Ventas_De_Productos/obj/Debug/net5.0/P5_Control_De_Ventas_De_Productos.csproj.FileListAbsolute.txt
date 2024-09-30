@@ -1,0 +1,16 @@
+C:\Users\PC\Documents\GitHub\proyectos-l3\P5_Control_De_Ventas_De_Productos\bin\Debug\net5.0\P5_Control_De_Ventas_De_Productos.exe
+C:\Users\PC\Documents\GitHub\proyectos-l3\P5_Control_De_Ventas_De_Productos\bin\Debug\net5.0\P5_Control_De_Ventas_De_Productos.deps.json
+C:\Users\PC\Documents\GitHub\proyectos-l3\P5_Control_De_Ventas_De_Productos\bin\Debug\net5.0\P5_Control_De_Ventas_De_Productos.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\proyectos-l3\P5_Control_De_Ventas_De_Productos\bin\Debug\net5.0\P5_Control_De_Ventas_De_Productos.runtimeconfig.dev.json
+C:\Users\PC\Documents\GitHub\proyectos-l3\P5_Control_De_Ventas_De_Productos\bin\Debug\net5.0\P5_Control_De_Ventas_De_Productos.dll
+C:\Users\PC\Documents\GitHub\proyectos-l3\P5_Control_De_Ventas_De_Productos\bin\Debug\net5.0\ref\P5_Control_De_Ventas_De_Productos.dll
+C:\Users\PC\Documents\GitHub\proyectos-l3\P5_Control_De_Ventas_De_Productos\bin\Debug\net5.0\P5_Control_De_Ventas_De_Productos.pdb
+C:\Users\PC\Documents\GitHub\proyectos-l3\P5_Control_De_Ventas_De_Productos\obj\Debug\net5.0\P5_Control_De_Ventas_De_Productos.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P5_Control_De_Ventas_De_Productos\obj\Debug\net5.0\P5_Control_De_Ventas_De_Productos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\proyectos-l3\P5_Control_De_Ventas_De_Productos\obj\Debug\net5.0\P5_Control_De_Ventas_De_Productos.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P5_Control_De_Ventas_De_Productos\obj\Debug\net5.0\P5_Control_De_Ventas_De_Productos.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\proyectos-l3\P5_Control_De_Ventas_De_Productos\obj\Debug\net5.0\P5_Control_De_Ventas_De_Productos.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P5_Control_De_Ventas_De_Productos\obj\Debug\net5.0\P5_Control_De_Ventas_De_Productos.dll
+C:\Users\PC\Documents\GitHub\proyectos-l3\P5_Control_De_Ventas_De_Productos\obj\Debug\net5.0\ref\P5_Control_De_Ventas_De_Productos.dll
+C:\Users\PC\Documents\GitHub\proyectos-l3\P5_Control_De_Ventas_De_Productos\obj\Debug\net5.0\P5_Control_De_Ventas_De_Productos.pdb
+C:\Users\PC\Documents\GitHub\proyectos-l3\P5_Control_De_Ventas_De_Productos\obj\Debug\net5.0\P5_Control_De_Ventas_De_Productos.genruntimeconfig.cache

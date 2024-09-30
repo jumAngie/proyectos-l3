@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "P5_Control_De_Ventas_De_Productos/1.0.0": {
+        "runtime": {
+          "P5_Control_De_Ventas_De_Productos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P5_Control_De_Ventas_De_Productos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

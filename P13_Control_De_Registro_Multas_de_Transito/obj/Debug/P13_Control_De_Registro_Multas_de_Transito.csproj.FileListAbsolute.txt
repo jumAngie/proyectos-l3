@@ -1,0 +1,10 @@
+C:\Users\PC\Documents\GitHub\proyectos-l3\P13_Control_De_Registro_Multas_de_Transito\bin\Debug\P13_Control_De_Registro_Multas_de_Transito.exe.config
+C:\Users\PC\Documents\GitHub\proyectos-l3\P13_Control_De_Registro_Multas_de_Transito\bin\Debug\P13_Control_De_Registro_Multas_de_Transito.exe
+C:\Users\PC\Documents\GitHub\proyectos-l3\P13_Control_De_Registro_Multas_de_Transito\bin\Debug\P13_Control_De_Registro_Multas_de_Transito.pdb
+C:\Users\PC\Documents\GitHub\proyectos-l3\P13_Control_De_Registro_Multas_de_Transito\obj\Debug\P13_Control_De_Registro_Multas_de_Transito.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P13_Control_De_Registro_Multas_de_Transito\obj\Debug\P13_Control_De_Registro_Multas_de_Transito.frmMultas.resources
+C:\Users\PC\Documents\GitHub\proyectos-l3\P13_Control_De_Registro_Multas_de_Transito\obj\Debug\P13_Control_De_Registro_Multas_de_Transito.Properties.Resources.resources
+C:\Users\PC\Documents\GitHub\proyectos-l3\P13_Control_De_Registro_Multas_de_Transito\obj\Debug\P13_Control_De_Registro_Multas_de_Transito.csproj.GenerateResource.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P13_Control_De_Registro_Multas_de_Transito\obj\Debug\P13_Control_De_Registro_Multas_de_Transito.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P13_Control_De_Registro_Multas_de_Transito\obj\Debug\P13_Control_De_Registro_Multas_de_Transito.exe
+C:\Users\PC\Documents\GitHub\proyectos-l3\P13_Control_De_Registro_Multas_de_Transito\obj\Debug\P13_Control_De_Registro_Multas_de_Transito.pdb

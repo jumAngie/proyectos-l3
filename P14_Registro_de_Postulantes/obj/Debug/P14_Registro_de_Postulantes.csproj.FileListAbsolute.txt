@@ -1,0 +1,10 @@
+C:\Users\PC\Documents\GitHub\proyectos-l3\P14_Registro_de_Postulantes\bin\Debug\P14_Registro_de_Postulantes.exe.config
+C:\Users\PC\Documents\GitHub\proyectos-l3\P14_Registro_de_Postulantes\bin\Debug\P14_Registro_de_Postulantes.exe
+C:\Users\PC\Documents\GitHub\proyectos-l3\P14_Registro_de_Postulantes\bin\Debug\P14_Registro_de_Postulantes.pdb
+C:\Users\PC\Documents\GitHub\proyectos-l3\P14_Registro_de_Postulantes\obj\Debug\P14_Registro_de_Postulantes.frmPostulantes.resources
+C:\Users\PC\Documents\GitHub\proyectos-l3\P14_Registro_de_Postulantes\obj\Debug\P14_Registro_de_Postulantes.Properties.Resources.resources
+C:\Users\PC\Documents\GitHub\proyectos-l3\P14_Registro_de_Postulantes\obj\Debug\P14_Registro_de_Postulantes.csproj.GenerateResource.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P14_Registro_de_Postulantes\obj\Debug\P14_Registro_de_Postulantes.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P14_Registro_de_Postulantes\obj\Debug\P14_Registro_de_Postulantes.exe
+C:\Users\PC\Documents\GitHub\proyectos-l3\P14_Registro_de_Postulantes\obj\Debug\P14_Registro_de_Postulantes.pdb
+C:\Users\PC\Documents\GitHub\proyectos-l3\P14_Registro_de_Postulantes\obj\Debug\P14_Registro_de_Postulantes.csproj.AssemblyReference.cache

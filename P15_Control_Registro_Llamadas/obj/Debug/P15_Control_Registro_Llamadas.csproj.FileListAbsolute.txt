@@ -1,0 +1,10 @@
+C:\Users\PC\Documents\GitHub\proyectos-l3\P15_Control_Registro_Llamadas\bin\Debug\P15_Control_Registro_Llamadas.exe.config
+C:\Users\PC\Documents\GitHub\proyectos-l3\P15_Control_Registro_Llamadas\bin\Debug\P15_Control_Registro_Llamadas.exe
+C:\Users\PC\Documents\GitHub\proyectos-l3\P15_Control_Registro_Llamadas\bin\Debug\P15_Control_Registro_Llamadas.pdb
+C:\Users\PC\Documents\GitHub\proyectos-l3\P15_Control_Registro_Llamadas\obj\Debug\P15_Control_Registro_Llamadas.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P15_Control_Registro_Llamadas\obj\Debug\P15_Control_Registro_Llamadas.frmLlamadas.resources
+C:\Users\PC\Documents\GitHub\proyectos-l3\P15_Control_Registro_Llamadas\obj\Debug\P15_Control_Registro_Llamadas.Properties.Resources.resources
+C:\Users\PC\Documents\GitHub\proyectos-l3\P15_Control_Registro_Llamadas\obj\Debug\P15_Control_Registro_Llamadas.csproj.GenerateResource.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P15_Control_Registro_Llamadas\obj\Debug\P15_Control_Registro_Llamadas.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P15_Control_Registro_Llamadas\obj\Debug\P15_Control_Registro_Llamadas.exe
+C:\Users\PC\Documents\GitHub\proyectos-l3\P15_Control_Registro_Llamadas\obj\Debug\P15_Control_Registro_Llamadas.pdb

@@ -1,0 +1,10 @@
+C:\Users\PC\Documents\GitHub\proyectos-l3\P16_Control_Registro_Estacionamiento\bin\Debug\P16_Control_Registro_Estacionamiento.exe.config
+C:\Users\PC\Documents\GitHub\proyectos-l3\P16_Control_Registro_Estacionamiento\bin\Debug\P16_Control_Registro_Estacionamiento.exe
+C:\Users\PC\Documents\GitHub\proyectos-l3\P16_Control_Registro_Estacionamiento\bin\Debug\P16_Control_Registro_Estacionamiento.pdb
+C:\Users\PC\Documents\GitHub\proyectos-l3\P16_Control_Registro_Estacionamiento\obj\Debug\P16_Control_Registro_Estacionamiento.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P16_Control_Registro_Estacionamiento\obj\Debug\P16_Control_Registro_Estacionamiento.frmEstacionamiento.resources
+C:\Users\PC\Documents\GitHub\proyectos-l3\P16_Control_Registro_Estacionamiento\obj\Debug\P16_Control_Registro_Estacionamiento.Properties.Resources.resources
+C:\Users\PC\Documents\GitHub\proyectos-l3\P16_Control_Registro_Estacionamiento\obj\Debug\P16_Control_Registro_Estacionamiento.csproj.GenerateResource.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P16_Control_Registro_Estacionamiento\obj\Debug\P16_Control_Registro_Estacionamiento.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P16_Control_Registro_Estacionamiento\obj\Debug\P16_Control_Registro_Estacionamiento.exe
+C:\Users\PC\Documents\GitHub\proyectos-l3\P16_Control_Registro_Estacionamiento\obj\Debug\P16_Control_Registro_Estacionamiento.pdb

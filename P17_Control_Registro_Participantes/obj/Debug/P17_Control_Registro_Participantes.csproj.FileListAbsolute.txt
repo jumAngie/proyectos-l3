@@ -1,0 +1,10 @@
+C:\Users\PC\Documents\GitHub\proyectos-l3\P17_Control_Registro_Participantes\bin\Debug\P17_Control_Registro_Participantes.exe.config
+C:\Users\PC\Documents\GitHub\proyectos-l3\P17_Control_Registro_Participantes\bin\Debug\P17_Control_Registro_Participantes.exe
+C:\Users\PC\Documents\GitHub\proyectos-l3\P17_Control_Registro_Participantes\bin\Debug\P17_Control_Registro_Participantes.pdb
+C:\Users\PC\Documents\GitHub\proyectos-l3\P17_Control_Registro_Participantes\obj\Debug\P17_Control_Registro_Participantes.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P17_Control_Registro_Participantes\obj\Debug\P17_Control_Registro_Participantes.frmParticipantes.resources
+C:\Users\PC\Documents\GitHub\proyectos-l3\P17_Control_Registro_Participantes\obj\Debug\P17_Control_Registro_Participantes.Properties.Resources.resources
+C:\Users\PC\Documents\GitHub\proyectos-l3\P17_Control_Registro_Participantes\obj\Debug\P17_Control_Registro_Participantes.csproj.GenerateResource.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P17_Control_Registro_Participantes\obj\Debug\P17_Control_Registro_Participantes.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P17_Control_Registro_Participantes\obj\Debug\P17_Control_Registro_Participantes.exe
+C:\Users\PC\Documents\GitHub\proyectos-l3\P17_Control_Registro_Participantes\obj\Debug\P17_Control_Registro_Participantes.pdb

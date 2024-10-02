@@ -1,0 +1,10 @@
+C:\Users\PC\Documents\GitHub\proyectos-l3\P23_Control_Registro_Llamadas_MSVR_SP\bin\Debug\P23_Control_Registro_Llamadas_MSVR_SP.exe.config
+C:\Users\PC\Documents\GitHub\proyectos-l3\P23_Control_Registro_Llamadas_MSVR_SP\bin\Debug\P23_Control_Registro_Llamadas_MSVR_SP.exe
+C:\Users\PC\Documents\GitHub\proyectos-l3\P23_Control_Registro_Llamadas_MSVR_SP\bin\Debug\P23_Control_Registro_Llamadas_MSVR_SP.pdb
+C:\Users\PC\Documents\GitHub\proyectos-l3\P23_Control_Registro_Llamadas_MSVR_SP\obj\Debug\P23_Control_Registro_Llamadas_MSVR_SP.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P23_Control_Registro_Llamadas_MSVR_SP\obj\Debug\P23_Control_Registro_Llamadas_MSVR_SP.frmLlamadas.resources
+C:\Users\PC\Documents\GitHub\proyectos-l3\P23_Control_Registro_Llamadas_MSVR_SP\obj\Debug\P23_Control_Registro_Llamadas_MSVR_SP.Properties.Resources.resources
+C:\Users\PC\Documents\GitHub\proyectos-l3\P23_Control_Registro_Llamadas_MSVR_SP\obj\Debug\P23_Control_Registro_Llamadas_MSVR_SP.csproj.GenerateResource.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P23_Control_Registro_Llamadas_MSVR_SP\obj\Debug\P23_Control_Registro_Llamadas_MSVR_SP.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P23_Control_Registro_Llamadas_MSVR_SP\obj\Debug\P23_Control_Registro_Llamadas_MSVR_SP.exe
+C:\Users\PC\Documents\GitHub\proyectos-l3\P23_Control_Registro_Llamadas_MSVR_SP\obj\Debug\P23_Control_Registro_Llamadas_MSVR_SP.pdb

@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Documents\\GitHub\\proyectos-l3\\P24_Control_Registro_Llamadas_MSVR_CP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C351333C-C108-4A8B-9D47-D3C194211E69}|P24_Control_Registro_Llamadas_MSVR_CP.csproj|c:\\users\\pc\\documents\\github\\proyectos-l3\\p24_control_registro_llamadas_msvr_cp\\frmllamadassvcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C351333C-C108-4A8B-9D47-D3C194211E69}|P24_Control_Registro_Llamadas_MSVR_CP.csproj|solutionrelative:frmllamadassvcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C351333C-C108-4A8B-9D47-D3C194211E69}|P24_Control_Registro_Llamadas_MSVR_CP.csproj|c:\\users\\pc\\documents\\github\\proyectos-l3\\p24_control_registro_llamadas_msvr_cp\\frmllamadassvcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C351333C-C108-4A8B-9D47-D3C194211E69}|P24_Control_Registro_Llamadas_MSVR_CP.csproj|solutionrelative:frmllamadassvcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmLlamadasSVCP.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\proyectos-l3\\P24_Control_Registro_Llamadas_MSVR_CP\\frmLlamadasSVCP.cs",
+              "RelativeDocumentMoniker": "frmLlamadasSVCP.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\proyectos-l3\\P24_Control_Registro_Llamadas_MSVR_CP\\frmLlamadasSVCP.cs",
+              "RelativeToolTip": "frmLlamadasSVCP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T21:32:01.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmLlamadasSVCP.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\proyectos-l3\\P24_Control_Registro_Llamadas_MSVR_CP\\frmLlamadasSVCP.cs",
+              "RelativeDocumentMoniker": "frmLlamadasSVCP.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\proyectos-l3\\P24_Control_Registro_Llamadas_MSVR_CP\\frmLlamadasSVCP.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmLlamadasSVCP.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T21:27:53.093Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

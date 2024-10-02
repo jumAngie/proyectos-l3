@@ -1,0 +1,10 @@
+C:\Users\PC\Documents\GitHub\proyectos-l3\P18_Planilla_Sueldo\bin\Debug\P18_Planilla_Sueldo.exe.config
+C:\Users\PC\Documents\GitHub\proyectos-l3\P18_Planilla_Sueldo\bin\Debug\P18_Planilla_Sueldo.exe
+C:\Users\PC\Documents\GitHub\proyectos-l3\P18_Planilla_Sueldo\bin\Debug\P18_Planilla_Sueldo.pdb
+C:\Users\PC\Documents\GitHub\proyectos-l3\P18_Planilla_Sueldo\obj\Debug\P18_Planilla_Sueldo.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P18_Planilla_Sueldo\obj\Debug\P18_Planilla_Sueldo.frmPlanilla.resources
+C:\Users\PC\Documents\GitHub\proyectos-l3\P18_Planilla_Sueldo\obj\Debug\P18_Planilla_Sueldo.Properties.Resources.resources
+C:\Users\PC\Documents\GitHub\proyectos-l3\P18_Planilla_Sueldo\obj\Debug\P18_Planilla_Sueldo.csproj.GenerateResource.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P18_Planilla_Sueldo\obj\Debug\P18_Planilla_Sueldo.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P18_Planilla_Sueldo\obj\Debug\P18_Planilla_Sueldo.exe
+C:\Users\PC\Documents\GitHub\proyectos-l3\P18_Planilla_Sueldo\obj\Debug\P18_Planilla_Sueldo.pdb

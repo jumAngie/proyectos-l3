@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Documents\\GitHub\\proyectos-l3\\P18_Planilla_Sueldo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF2D86C-F0ED-447F-A372-CD2ADF3A2B15}|P18_Planilla_Sueldo.csproj|c:\\users\\pc\\documents\\github\\proyectos-l3\\p18_planilla_sueldo\\frmplanilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF2D86C-F0ED-447F-A372-CD2ADF3A2B15}|P18_Planilla_Sueldo.csproj|solutionrelative:frmplanilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF2D86C-F0ED-447F-A372-CD2ADF3A2B15}|P18_Planilla_Sueldo.csproj|c:\\users\\pc\\documents\\github\\proyectos-l3\\p18_planilla_sueldo\\frmplanilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5AF2D86C-F0ED-447F-A372-CD2ADF3A2B15}|P18_Planilla_Sueldo.csproj|solutionrelative:frmplanilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmPlanilla.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\proyectos-l3\\P18_Planilla_Sueldo\\frmPlanilla.cs",
+              "RelativeDocumentMoniker": "frmPlanilla.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\proyectos-l3\\P18_Planilla_Sueldo\\frmPlanilla.cs",
+              "RelativeToolTip": "frmPlanilla.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T23:46:48.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmPlanilla.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\proyectos-l3\\P18_Planilla_Sueldo\\frmPlanilla.cs",
+              "RelativeDocumentMoniker": "frmPlanilla.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\proyectos-l3\\P18_Planilla_Sueldo\\frmPlanilla.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmPlanilla.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T23:29:17.111Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

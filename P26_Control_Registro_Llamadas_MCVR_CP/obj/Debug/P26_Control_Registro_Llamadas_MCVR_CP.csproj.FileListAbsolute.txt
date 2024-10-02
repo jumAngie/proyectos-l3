@@ -1,0 +1,10 @@
+C:\Users\PC\Documents\GitHub\proyectos-l3\P26_Control_Registro_Llamadas_MCVR_CP\bin\Debug\P26_Control_Registro_Llamadas_MCVR_CP.exe.config
+C:\Users\PC\Documents\GitHub\proyectos-l3\P26_Control_Registro_Llamadas_MCVR_CP\bin\Debug\P26_Control_Registro_Llamadas_MCVR_CP.exe
+C:\Users\PC\Documents\GitHub\proyectos-l3\P26_Control_Registro_Llamadas_MCVR_CP\bin\Debug\P26_Control_Registro_Llamadas_MCVR_CP.pdb
+C:\Users\PC\Documents\GitHub\proyectos-l3\P26_Control_Registro_Llamadas_MCVR_CP\obj\Debug\P26_Control_Registro_Llamadas_MCVR_CP.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P26_Control_Registro_Llamadas_MCVR_CP\obj\Debug\P26_Control_Registro_Llamadas_MCVR_CP.frmLlamadasMVRCP.resources
+C:\Users\PC\Documents\GitHub\proyectos-l3\P26_Control_Registro_Llamadas_MCVR_CP\obj\Debug\P26_Control_Registro_Llamadas_MCVR_CP.Properties.Resources.resources
+C:\Users\PC\Documents\GitHub\proyectos-l3\P26_Control_Registro_Llamadas_MCVR_CP\obj\Debug\P26_Control_Registro_Llamadas_MCVR_CP.csproj.GenerateResource.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P26_Control_Registro_Llamadas_MCVR_CP\obj\Debug\P26_Control_Registro_Llamadas_MCVR_CP.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P26_Control_Registro_Llamadas_MCVR_CP\obj\Debug\P26_Control_Registro_Llamadas_MCVR_CP.exe
+C:\Users\PC\Documents\GitHub\proyectos-l3\P26_Control_Registro_Llamadas_MCVR_CP\obj\Debug\P26_Control_Registro_Llamadas_MCVR_CP.pdb

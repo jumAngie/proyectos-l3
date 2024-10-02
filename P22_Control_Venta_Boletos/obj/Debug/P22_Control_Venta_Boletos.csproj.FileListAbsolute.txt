@@ -1,0 +1,10 @@
+C:\Users\PC\Documents\GitHub\proyectos-l3\P22_Control_Venta_Boletos\bin\Debug\P22_Control_Venta_Boletos.exe.config
+C:\Users\PC\Documents\GitHub\proyectos-l3\P22_Control_Venta_Boletos\bin\Debug\P22_Control_Venta_Boletos.exe
+C:\Users\PC\Documents\GitHub\proyectos-l3\P22_Control_Venta_Boletos\bin\Debug\P22_Control_Venta_Boletos.pdb
+C:\Users\PC\Documents\GitHub\proyectos-l3\P22_Control_Venta_Boletos\obj\Debug\P22_Control_Venta_Boletos.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P22_Control_Venta_Boletos\obj\Debug\P22_Control_Venta_Boletos.frmCine.resources
+C:\Users\PC\Documents\GitHub\proyectos-l3\P22_Control_Venta_Boletos\obj\Debug\P22_Control_Venta_Boletos.Properties.Resources.resources
+C:\Users\PC\Documents\GitHub\proyectos-l3\P22_Control_Venta_Boletos\obj\Debug\P22_Control_Venta_Boletos.csproj.GenerateResource.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P22_Control_Venta_Boletos\obj\Debug\P22_Control_Venta_Boletos.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P22_Control_Venta_Boletos\obj\Debug\P22_Control_Venta_Boletos.exe
+C:\Users\PC\Documents\GitHub\proyectos-l3\P22_Control_Venta_Boletos\obj\Debug\P22_Control_Venta_Boletos.pdb

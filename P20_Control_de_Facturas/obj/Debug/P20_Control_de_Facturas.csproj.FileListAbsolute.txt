@@ -1,0 +1,10 @@
+C:\Users\PC\Documents\GitHub\proyectos-l3\P20_Control_de_Facturas\bin\Debug\P20_Control_de_Facturas.exe.config
+C:\Users\PC\Documents\GitHub\proyectos-l3\P20_Control_de_Facturas\bin\Debug\P20_Control_de_Facturas.exe
+C:\Users\PC\Documents\GitHub\proyectos-l3\P20_Control_de_Facturas\bin\Debug\P20_Control_de_Facturas.pdb
+C:\Users\PC\Documents\GitHub\proyectos-l3\P20_Control_de_Facturas\obj\Debug\P20_Control_de_Facturas.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P20_Control_de_Facturas\obj\Debug\P20_Control_de_Facturas.frmFacturas.resources
+C:\Users\PC\Documents\GitHub\proyectos-l3\P20_Control_de_Facturas\obj\Debug\P20_Control_de_Facturas.Properties.Resources.resources
+C:\Users\PC\Documents\GitHub\proyectos-l3\P20_Control_de_Facturas\obj\Debug\P20_Control_de_Facturas.csproj.GenerateResource.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P20_Control_de_Facturas\obj\Debug\P20_Control_de_Facturas.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P20_Control_de_Facturas\obj\Debug\P20_Control_de_Facturas.exe
+C:\Users\PC\Documents\GitHub\proyectos-l3\P20_Control_de_Facturas\obj\Debug\P20_Control_de_Facturas.pdb

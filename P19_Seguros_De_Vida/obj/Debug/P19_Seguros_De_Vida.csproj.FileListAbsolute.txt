@@ -1,0 +1,10 @@
+C:\Users\PC\Documents\GitHub\proyectos-l3\P19_Seguros_De_Vida\bin\Debug\P19_Seguros_De_Vida.exe.config
+C:\Users\PC\Documents\GitHub\proyectos-l3\P19_Seguros_De_Vida\bin\Debug\P19_Seguros_De_Vida.exe
+C:\Users\PC\Documents\GitHub\proyectos-l3\P19_Seguros_De_Vida\bin\Debug\P19_Seguros_De_Vida.pdb
+C:\Users\PC\Documents\GitHub\proyectos-l3\P19_Seguros_De_Vida\obj\Debug\P19_Seguros_De_Vida.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P19_Seguros_De_Vida\obj\Debug\P19_Seguros_De_Vida.frmProformas.resources
+C:\Users\PC\Documents\GitHub\proyectos-l3\P19_Seguros_De_Vida\obj\Debug\P19_Seguros_De_Vida.Properties.Resources.resources
+C:\Users\PC\Documents\GitHub\proyectos-l3\P19_Seguros_De_Vida\obj\Debug\P19_Seguros_De_Vida.csproj.GenerateResource.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P19_Seguros_De_Vida\obj\Debug\P19_Seguros_De_Vida.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P19_Seguros_De_Vida\obj\Debug\P19_Seguros_De_Vida.exe
+C:\Users\PC\Documents\GitHub\proyectos-l3\P19_Seguros_De_Vida\obj\Debug\P19_Seguros_De_Vida.pdb

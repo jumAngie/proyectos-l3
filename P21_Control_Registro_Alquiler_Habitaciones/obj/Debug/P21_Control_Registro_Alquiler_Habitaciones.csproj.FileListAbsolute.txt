@@ -1,0 +1,10 @@
+C:\Users\PC\Documents\GitHub\proyectos-l3\P21_Control_Registro_Alquiler_Habitaciones\bin\Debug\P21_Control_Registro_Alquiler_Habitaciones.exe.config
+C:\Users\PC\Documents\GitHub\proyectos-l3\P21_Control_Registro_Alquiler_Habitaciones\bin\Debug\P21_Control_Registro_Alquiler_Habitaciones.exe
+C:\Users\PC\Documents\GitHub\proyectos-l3\P21_Control_Registro_Alquiler_Habitaciones\bin\Debug\P21_Control_Registro_Alquiler_Habitaciones.pdb
+C:\Users\PC\Documents\GitHub\proyectos-l3\P21_Control_Registro_Alquiler_Habitaciones\obj\Debug\P21_Control_Registro_Alquiler_Habitaciones.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P21_Control_Registro_Alquiler_Habitaciones\obj\Debug\P21_Control_Registro_Alquiler_Habitaciones.frmAlquiler.resources
+C:\Users\PC\Documents\GitHub\proyectos-l3\P21_Control_Registro_Alquiler_Habitaciones\obj\Debug\P21_Control_Registro_Alquiler_Habitaciones.Properties.Resources.resources
+C:\Users\PC\Documents\GitHub\proyectos-l3\P21_Control_Registro_Alquiler_Habitaciones\obj\Debug\P21_Control_Registro_Alquiler_Habitaciones.csproj.GenerateResource.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P21_Control_Registro_Alquiler_Habitaciones\obj\Debug\P21_Control_Registro_Alquiler_Habitaciones.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P21_Control_Registro_Alquiler_Habitaciones\obj\Debug\P21_Control_Registro_Alquiler_Habitaciones.exe
+C:\Users\PC\Documents\GitHub\proyectos-l3\P21_Control_Registro_Alquiler_Habitaciones\obj\Debug\P21_Control_Registro_Alquiler_Habitaciones.pdb

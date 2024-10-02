@@ -1,0 +1,10 @@
+C:\Users\PC\Documents\GitHub\proyectos-l3\P25_Control_Registro_Llamadas_MCVR_SP\bin\Debug\P25_Control_Registro_Llamadas_MCVR_SP.exe.config
+C:\Users\PC\Documents\GitHub\proyectos-l3\P25_Control_Registro_Llamadas_MCVR_SP\bin\Debug\P25_Control_Registro_Llamadas_MCVR_SP.exe
+C:\Users\PC\Documents\GitHub\proyectos-l3\P25_Control_Registro_Llamadas_MCVR_SP\bin\Debug\P25_Control_Registro_Llamadas_MCVR_SP.pdb
+C:\Users\PC\Documents\GitHub\proyectos-l3\P25_Control_Registro_Llamadas_MCVR_SP\obj\Debug\P25_Control_Registro_Llamadas_MCVR_SP.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P25_Control_Registro_Llamadas_MCVR_SP\obj\Debug\P25_Control_Registro_Llamadas_MCVR_SP.frmLlamadasCRSP.resources
+C:\Users\PC\Documents\GitHub\proyectos-l3\P25_Control_Registro_Llamadas_MCVR_SP\obj\Debug\P25_Control_Registro_Llamadas_MCVR_SP.Properties.Resources.resources
+C:\Users\PC\Documents\GitHub\proyectos-l3\P25_Control_Registro_Llamadas_MCVR_SP\obj\Debug\P25_Control_Registro_Llamadas_MCVR_SP.csproj.GenerateResource.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P25_Control_Registro_Llamadas_MCVR_SP\obj\Debug\P25_Control_Registro_Llamadas_MCVR_SP.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P25_Control_Registro_Llamadas_MCVR_SP\obj\Debug\P25_Control_Registro_Llamadas_MCVR_SP.exe
+C:\Users\PC\Documents\GitHub\proyectos-l3\P25_Control_Registro_Llamadas_MCVR_SP\obj\Debug\P25_Control_Registro_Llamadas_MCVR_SP.pdb

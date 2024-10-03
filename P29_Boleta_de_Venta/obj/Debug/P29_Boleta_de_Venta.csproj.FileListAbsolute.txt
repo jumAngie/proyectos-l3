@@ -1,0 +1,10 @@
+C:\Users\PC\Documents\GitHub\proyectos-l3\P29_Boleta_de_Venta\obj\Debug\P29_Boleta_de_Venta.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P29_Boleta_de_Venta\obj\Debug\P29_Boleta_de_Venta.Properties.Resources.resources
+C:\Users\PC\Documents\GitHub\proyectos-l3\P29_Boleta_de_Venta\obj\Debug\P29_Boleta_de_Venta.csproj.GenerateResource.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P29_Boleta_de_Venta\obj\Debug\P29_Boleta_de_Venta.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P29_Boleta_de_Venta\bin\Debug\P29_Boleta_de_Venta.exe.config
+C:\Users\PC\Documents\GitHub\proyectos-l3\P29_Boleta_de_Venta\bin\Debug\P29_Boleta_de_Venta.exe
+C:\Users\PC\Documents\GitHub\proyectos-l3\P29_Boleta_de_Venta\bin\Debug\P29_Boleta_de_Venta.pdb
+C:\Users\PC\Documents\GitHub\proyectos-l3\P29_Boleta_de_Venta\obj\Debug\P29_Boleta_de_Venta.frmBoletas.resources
+C:\Users\PC\Documents\GitHub\proyectos-l3\P29_Boleta_de_Venta\obj\Debug\P29_Boleta_de_Venta.exe
+C:\Users\PC\Documents\GitHub\proyectos-l3\P29_Boleta_de_Venta\obj\Debug\P29_Boleta_de_Venta.pdb

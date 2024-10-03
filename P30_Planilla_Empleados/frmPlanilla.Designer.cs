@@ -117,8 +117,9 @@
             this.lblAniosServicio.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.lblAniosServicio.Location = new System.Drawing.Point(542, 103);
             this.lblAniosServicio.Name = "lblAniosServicio";
-            this.lblAniosServicio.Size = new System.Drawing.Size(2, 17);
+            this.lblAniosServicio.Size = new System.Drawing.Size(16, 17);
             this.lblAniosServicio.TabIndex = 11;
+            this.lblAniosServicio.Text = "0";
             // 
             // label8
             // 

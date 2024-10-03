@@ -9,10 +9,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E20D0671-FDE9-4FF7-86B7-F3D8E02D195F}|P30_Planilla_Empleados.csproj|c:\\users\\pc\\documents\\github\\proyectos-l3\\p30_planilla_empleados\\frmplanilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E20D0671-FDE9-4FF7-86B7-F3D8E02D195F}|P30_Planilla_Empleados.csproj|solutionrelative:frmplanilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E20D0671-FDE9-4FF7-86B7-F3D8E02D195F}|P30_Planilla_Empleados.csproj|c:\\users\\pc\\documents\\github\\proyectos-l3\\p30_planilla_empleados\\planilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E20D0671-FDE9-4FF7-86B7-F3D8E02D195F}|P30_Planilla_Empleados.csproj|solutionrelative:planilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,24 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Planilla.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\proyectos-l3\\P30_Planilla_Empleados\\Planilla.cs",
-              "RelativeDocumentMoniker": "Planilla.cs",
-              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\proyectos-l3\\P30_Planilla_Empleados\\Planilla.cs",
-              "RelativeToolTip": "Planilla.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAmwG4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T03:26:04.442Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -49,9 +32,9 @@
               "RelativeDocumentMoniker": "frmPlanilla.cs",
               "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\proyectos-l3\\P30_Planilla_Empleados\\frmPlanilla.cs",
               "RelativeToolTip": "frmPlanilla.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAjwC0AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCEAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T03:05:22.139Z",
+              "WhenOpened": "2024-10-03T04:07:34.478Z",
               "EditorCaption": ""
             },
             {
@@ -63,7 +46,7 @@
               "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\proyectos-l3\\P30_Planilla_Empleados\\frmPlanilla.cs [Dise\u00F1o]",
               "RelativeToolTip": "frmPlanilla.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T02:59:34.291Z",
+              "WhenOpened": "2024-10-03T04:07:21.198Z",
               "EditorCaption": " [Dise\u00F1o]"
             }
           ]

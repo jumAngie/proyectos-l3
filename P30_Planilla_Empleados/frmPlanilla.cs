@@ -25,12 +25,13 @@ namespace P30_Planilla_Empleados
 
         void mostrarFecha() 
         { 
-            lblMesConsultado.Text = DateTime.Now.ToShortDateString();
+            lblConsulta.Text = DateTime.Now.ToShortDateString();
         }
 
         void mostrarMesActual()
         {
-            lblMesConsultado.Text = DateTime.Now.Month.ToString();
+            Planilla planilla = new Planilla();
+            lblMesConsultado.Text = planilla.mesConsultado();
         }
 
         private void dtFechaIng_ValueChanged(object sender, EventArgs e)

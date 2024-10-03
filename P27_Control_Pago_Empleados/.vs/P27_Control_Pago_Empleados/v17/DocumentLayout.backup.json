@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Documents\\GitHub\\proyectos-l3\\P27_Control_Pago_Empleados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66030765-2185-446A-B91E-96295167D24C}|P27_Control_Pago_Empleados.csproj|c:\\users\\pc\\documents\\github\\proyectos-l3\\p27_control_pago_empleados\\frmplanilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66030765-2185-446A-B91E-96295167D24C}|P27_Control_Pago_Empleados.csproj|solutionrelative:frmplanilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66030765-2185-446A-B91E-96295167D24C}|P27_Control_Pago_Empleados.csproj|c:\\users\\pc\\documents\\github\\proyectos-l3\\p27_control_pago_empleados\\frmplanilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66030765-2185-446A-B91E-96295167D24C}|P27_Control_Pago_Empleados.csproj|solutionrelative:frmplanilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmPlanilla.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\proyectos-l3\\P27_Control_Pago_Empleados\\frmPlanilla.cs",
+              "RelativeDocumentMoniker": "frmPlanilla.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\proyectos-l3\\P27_Control_Pago_Empleados\\frmPlanilla.cs",
+              "RelativeToolTip": "frmPlanilla.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYBAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T23:08:14.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmPlanilla.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\proyectos-l3\\P27_Control_Pago_Empleados\\frmPlanilla.cs",
+              "RelativeDocumentMoniker": "frmPlanilla.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\proyectos-l3\\P27_Control_Pago_Empleados\\frmPlanilla.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmPlanilla.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T22:48:24.118Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

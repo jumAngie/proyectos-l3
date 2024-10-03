@@ -1,0 +1,10 @@
+C:\Users\PC\Documents\GitHub\proyectos-l3\P27_Control_Pago_Empleados\bin\Debug\P27_Control_Pago_Empleados.exe.config
+C:\Users\PC\Documents\GitHub\proyectos-l3\P27_Control_Pago_Empleados\bin\Debug\P27_Control_Pago_Empleados.exe
+C:\Users\PC\Documents\GitHub\proyectos-l3\P27_Control_Pago_Empleados\bin\Debug\P27_Control_Pago_Empleados.pdb
+C:\Users\PC\Documents\GitHub\proyectos-l3\P27_Control_Pago_Empleados\obj\Debug\P27_Control_Pago_Empleados.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P27_Control_Pago_Empleados\obj\Debug\P27_Control_Pago_Empleados.frmPlanilla.resources
+C:\Users\PC\Documents\GitHub\proyectos-l3\P27_Control_Pago_Empleados\obj\Debug\P27_Control_Pago_Empleados.Properties.Resources.resources
+C:\Users\PC\Documents\GitHub\proyectos-l3\P27_Control_Pago_Empleados\obj\Debug\P27_Control_Pago_Empleados.csproj.GenerateResource.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P27_Control_Pago_Empleados\obj\Debug\P27_Control_Pago_Empleados.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P27_Control_Pago_Empleados\obj\Debug\P27_Control_Pago_Empleados.exe
+C:\Users\PC\Documents\GitHub\proyectos-l3\P27_Control_Pago_Empleados\obj\Debug\P27_Control_Pago_Empleados.pdb

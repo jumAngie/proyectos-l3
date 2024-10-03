@@ -1,0 +1,10 @@
+C:\Users\PC\Documents\GitHub\proyectos-l3\P30_Planilla_Empleados\bin\Debug\P30_Planilla_Empleados.exe.config
+C:\Users\PC\Documents\GitHub\proyectos-l3\P30_Planilla_Empleados\bin\Debug\P30_Planilla_Empleados.exe
+C:\Users\PC\Documents\GitHub\proyectos-l3\P30_Planilla_Empleados\bin\Debug\P30_Planilla_Empleados.pdb
+C:\Users\PC\Documents\GitHub\proyectos-l3\P30_Planilla_Empleados\obj\Debug\P30_Planilla_Empleados.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P30_Planilla_Empleados\obj\Debug\P30_Planilla_Empleados.frmPlanilla.resources
+C:\Users\PC\Documents\GitHub\proyectos-l3\P30_Planilla_Empleados\obj\Debug\P30_Planilla_Empleados.Properties.Resources.resources
+C:\Users\PC\Documents\GitHub\proyectos-l3\P30_Planilla_Empleados\obj\Debug\P30_Planilla_Empleados.csproj.GenerateResource.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P30_Planilla_Empleados\obj\Debug\P30_Planilla_Empleados.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P30_Planilla_Empleados\obj\Debug\P30_Planilla_Empleados.exe
+C:\Users\PC\Documents\GitHub\proyectos-l3\P30_Planilla_Empleados\obj\Debug\P30_Planilla_Empleados.pdb

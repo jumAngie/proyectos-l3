@@ -1,0 +1,10 @@
+C:\Users\PC\Documents\GitHub\proyectos-l3\P28_Control_Registro_Libros\bin\Debug\P28_Control_Registro_Libros.exe.config
+C:\Users\PC\Documents\GitHub\proyectos-l3\P28_Control_Registro_Libros\bin\Debug\P28_Control_Registro_Libros.exe
+C:\Users\PC\Documents\GitHub\proyectos-l3\P28_Control_Registro_Libros\bin\Debug\P28_Control_Registro_Libros.pdb
+C:\Users\PC\Documents\GitHub\proyectos-l3\P28_Control_Registro_Libros\obj\Debug\P28_Control_Registro_Libros.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P28_Control_Registro_Libros\obj\Debug\P28_Control_Registro_Libros.frmLibros.resources
+C:\Users\PC\Documents\GitHub\proyectos-l3\P28_Control_Registro_Libros\obj\Debug\P28_Control_Registro_Libros.Properties.Resources.resources
+C:\Users\PC\Documents\GitHub\proyectos-l3\P28_Control_Registro_Libros\obj\Debug\P28_Control_Registro_Libros.csproj.GenerateResource.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P28_Control_Registro_Libros\obj\Debug\P28_Control_Registro_Libros.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\proyectos-l3\P28_Control_Registro_Libros\obj\Debug\P28_Control_Registro_Libros.exe
+C:\Users\PC\Documents\GitHub\proyectos-l3\P28_Control_Registro_Libros\obj\Debug\P28_Control_Registro_Libros.pdb

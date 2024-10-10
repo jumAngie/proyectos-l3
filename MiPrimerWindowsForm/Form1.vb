@@ -37,6 +37,7 @@
     Private Sub LimpiarTextBox()
         txtNombre.Clear()
         txtApellido.Clear()
+        txtNombre.Focus()
     End Sub
 
     Private Sub MsjSuccess()
@@ -67,7 +68,10 @@
 
         If (txtNombre.Text <> "" And txtApellido.Text <> "") Then
             MsjWarningHide()
-            lstDatos.Items.Add(txtNombre.Text + " " + txtApellido.Text)
+            Dim nombre = txtNombre.Text
+            Dim apellido = txtApellido.Text
+            lstDatos.Items.Add(nombre + " " + apellido)
+            Me.dgDatos.Rows.Add(txtNombre.Text, txtApellido.Text)
             MsjSuccess()
             LimpiarTextBox()
             Await Task.Delay(3000)

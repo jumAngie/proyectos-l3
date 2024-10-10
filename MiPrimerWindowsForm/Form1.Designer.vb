@@ -44,12 +44,16 @@ Partial Class Form1
         Panel1 = New Panel()
         Panel2 = New Panel()
         Label2 = New Label()
+        dgDatos = New DataGridView()
+        Column1 = New DataGridViewTextBoxColumn()
+        Column2 = New DataGridViewTextBoxColumn()
         GroupBox1.SuspendLayout()
         CType(pctSuccess, ComponentModel.ISupportInitialize).BeginInit()
         CType(pctWarning, ComponentModel.ISupportInitialize).BeginInit()
         CType(PictureBox1, ComponentModel.ISupportInitialize).BeginInit()
         Panel1.SuspendLayout()
         Panel2.SuspendLayout()
+        CType(dgDatos, ComponentModel.ISupportInitialize).BeginInit()
         SuspendLayout()
         ' 
         ' lblNombre
@@ -103,7 +107,7 @@ Partial Class Form1
         lstDatos.Location = New Point(438, 96)
         lstDatos.Margin = New Padding(3, 2, 3, 2)
         lstDatos.Name = "lstDatos"
-        lstDatos.Size = New Size(257, 256)
+        lstDatos.Size = New Size(257, 172)
         lstDatos.TabIndex = 3
         ' 
         ' GroupBox1
@@ -287,7 +291,7 @@ Partial Class Form1
         ' 
         Panel2.BackColor = Color.LightSkyBlue
         Panel2.Controls.Add(Label2)
-        Panel2.Location = New Point(0, 384)
+        Panel2.Location = New Point(0, 493)
         Panel2.Name = "Panel2"
         Panel2.Size = New Size(726, 35)
         Panel2.TabIndex = 10
@@ -304,12 +308,38 @@ Partial Class Form1
         Label2.TabIndex = 11
         Label2.Text = "© Copyright 2024"
         ' 
+        ' dgDatos
+        ' 
+        dgDatos.BackgroundColor = SystemColors.ButtonHighlight
+        dgDatos.CellBorderStyle = DataGridViewCellBorderStyle.Raised
+        dgDatos.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize
+        dgDatos.Columns.AddRange(New DataGridViewColumn() {Column1, Column2})
+        dgDatos.GridColor = SystemColors.ControlDarkDark
+        dgDatos.Location = New Point(48, 295)
+        dgDatos.Name = "dgDatos"
+        dgDatos.RowTemplate.Height = 25
+        dgDatos.Size = New Size(443, 156)
+        dgDatos.TabIndex = 11
+        ' 
+        ' Column1
+        ' 
+        Column1.HeaderText = "Nombre"
+        Column1.Name = "Column1"
+        Column1.Width = 200
+        ' 
+        ' Column2
+        ' 
+        Column2.HeaderText = "Apellido"
+        Column2.Name = "Column2"
+        Column2.Width = 200
+        ' 
         ' Form1
         ' 
         AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
         BackColor = SystemColors.Highlight
-        ClientSize = New Size(723, 417)
+        ClientSize = New Size(723, 529)
+        Controls.Add(dgDatos)
         Controls.Add(Panel2)
         Controls.Add(pctWarning)
         Controls.Add(pctSuccess)
@@ -336,6 +366,7 @@ Partial Class Form1
         Panel1.PerformLayout()
         Panel2.ResumeLayout(False)
         Panel2.PerformLayout()
+        CType(dgDatos, ComponentModel.ISupportInitialize).EndInit()
         ResumeLayout(False)
         PerformLayout()
     End Sub
@@ -361,4 +392,7 @@ Partial Class Form1
     Friend WithEvents Panel1 As Panel
     Friend WithEvents Panel2 As Panel
     Friend WithEvents Label2 As Label
+    Friend WithEvents dgDatos As DataGridView
+    Friend WithEvents Column1 As DataGridViewTextBoxColumn
+    Friend WithEvents Column2 As DataGridViewTextBoxColumn
 End Class
